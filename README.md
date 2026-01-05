@@ -1,5 +1,4 @@
 
-```md
 # 🧠 MINI Cursor – AI Website Builder
 
 A **mini version of Cursor AI** built to understand how **LLMs, AI Agents (Tools), and server-side execution** work together to automate code and website creation.
