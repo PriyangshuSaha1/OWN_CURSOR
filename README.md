@@ -148,5 +148,3 @@ Guidance: **Rohit Negi (CoderArmy)**
 ## 📄 License
 
 This project is licensed under the **ISC License**.
-
-```
